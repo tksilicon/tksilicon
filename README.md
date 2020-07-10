@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on projects for my employr at Union Bank of Nigeria
-🔭 I’m a contributor to [DSO!](https://github.com/manyuanrong/dso). 
-🌱 I’m currently learning JavaScript and its frameworks
+🔭 I’m currently working on projects for my employr at Union Bank of Nigeria. <br />
+🔭 I’m a contributor to [DSO!](https://github.com/manyuanrong/dso). <br />
+🌱 I’m currently learning JavaScript and its frameworks. <br />
  📫 frankgod02@hotmail.com
  
  
