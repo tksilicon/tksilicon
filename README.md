@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭  I’m currently working on projects for my employer at Union Bank of Nigeria. <br />
 🔭  I’m a contributor to [DSO](https://github.com/manyuanrong/dso). <br />
-🌱  I’m currently learning JavaScript and its frameworks (NodeJs, Deno, React, React Native) at advanced levels. <br />
+🌱  I’m currently a JavaScript (NodeJs, React, React Native), Deno and TypeScript enthusiast. <br />
  📫  frankgod02@hotmail.com
  
  
