@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on projects for my employr at Union Bank of Nigeria
-🔭 I’m a contributor to [DSO!](https://github.com/manyuanrong/dso). 
+🔭 I’m a collaborator on [DSO!](https://github.com/manyuanrong/dso). 
 🌱 I’m currently learning JavaScript and its frameworks
  📫 frankgod02@hotmail.com
  
