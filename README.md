@@ -2,7 +2,7 @@
 🔭  I’m currently working on projects for my employer at Union Bank of Nigeria. <br />
 🔭  I’m a Java developer. <br />
 🌱  I’m currently a JavaScript (NodeJs, React, React Native), Deno and TypeScript enthusiast. <br />
-🔭  I’m a contributor to [DSO](https://github.com/manyuanrong/dso). <br />
+🔭  I’m a collaborator on [DSO](https://github.com/manyuanrong/dso). <br />
  📫  frankgod02@hotmail.com
  
  
